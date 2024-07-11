@@ -1,4 +1,4 @@
-# Analyzing-Chemical-formulations-in-Cosmetic-products
+# Analyzing-Harmful-Chemical-formulations-in-Cosmetic-products
 
 The cosmetics analysis project provides critical insights into the presence and management of Titanium dioxide (TiO2) in the cosmetics industry under the California Safe Cosmetics Act. I found that 86.84% of products contain TiO2, which, despite its potential carcinogenic classification, appears to pose minimal health risks through skin exposure.
 
