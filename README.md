@@ -8,4 +8,4 @@ This project highlights the complexity of cosmetics regulation and its impact on
 
 Insights & Analysis: https://shriyag06.github.io/PortfolioWebsite.github.io/generic.html 
 
-Check ou the dashboard here: https://public.tableau.com/app/profile/shriya.gawade/viz/CosmeticsAnalysis/CosmeticsAnalyticsDashboard
+Check ou the dashboard here: https://public.tableau.com/app/profile/shriya.gawade/viz/shared/5543F9RBY
